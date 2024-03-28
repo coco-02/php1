@@ -4,22 +4,14 @@
 <div class="container">
     <form action="confirmation.php">
         <label for="name"> Name</label>
-        <input type="text" id="name" name="name" placeholder="Your name.."
-        autocomplete="given-name">
+        <input type="text" id="name" name="name" placeholder="Your name.." autocomplete="given-name">
         <label for="subject">Subject</label>
         <textarea id="subject" name="subject" placeholder="Write something.."></textarea>
-        <input type="radio" id="a" name="drone" value="A" checked />
-        <label for="A">A</label>
-        <input type="radio" id="b" name="drone" value="B" checked />
-        <label for="B">B</label>
-        <input type="radio" id="c" name="drone" value="C" checked />
-        <label for="C">C</label>
-        <input type="checkbox" id="A" name="A" checked />
-        <label for="A">A</label>
-        <input type="checkbox" id="B" name="B" checked />
-        <label for="B">B</label>
-        <input type="checkbox" id="C" name="C" checked />
-        <label for="C">C</label>
+
+        <label for="A"><input type="radio" id="a" name="drone" value="A" checked /> PS5</label>
+        <label for="B"><input type="radio" id="b" name="drone" value="B" checked /> XBOX Series S/X</label>
+        <label for="C"><input type="radio" id="c" name="drone" value="C" checked /> EA Origin</label>
+
         <label for="avatar">Choose a profile picture:</label>
 
         <input type="file" id="avatar" name="avatar" accept="image/png, image/jpeg" />

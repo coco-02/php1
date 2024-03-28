@@ -66,7 +66,7 @@
 
     ?>
 
-    <h4>Drivers Chaptsionship</h4>
+    <h4>Drivers Champsionship</h4>
     <?php
 
     $driver_data = [

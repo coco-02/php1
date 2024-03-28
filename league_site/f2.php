@@ -2,7 +2,6 @@
 
 <div class="content">
     <h4>Constructors Standings</h4>
-    <p></p>
     <?php
     $league_data = [
         [
@@ -45,6 +44,10 @@
             'team_name' => 'PHM AIX Racing',
             'pts' => 0,
         ],
+        [
+            'team_name' => 'HiTech Pulse-Eight',
+            'pts' => 0,
+        ],
     ];
 
     echo '<table>
@@ -65,128 +68,128 @@
 
     ?>
 
-    <h4>Drivers Chaptsionship</h4>
+    <h4>Drivers Championship</h4>
     <?php
 
     $driver_data = [
         [
             'driver_name' => 'Driver 1',
             'dpts' => '0',
-            'sprintwins'=>'0',
+            'sprintwins' => '0',
             'racewins' => '0'
         ],
         [
             'driver_name' => 'Driver 2',
             'dpts' => '0',
-            'sprintwins'=>'0',
+            'sprintwins' => '0',
             'racewins' => '0'
         ],
         [
             'driver_name' => 'Driver 3',
             'dpts' => '0',
-            'sprintwins'=>'0',
+            'sprintwins' => '0',
             'racewins' => '0'
         ],
         [
             'driver_name' => 'Driver 4',
             'dpts' => '0',
-            'sprintwins'=>'0',
+            'sprintwins' => '0',
             'racewins' => '0'
         ],
         [
             'driver_name' => 'Driver 5',
             'dpts' => '0',
-            'sprintwins'=>'0',
+            'sprintwins' => '0',
             'racewins' => '0'
         ],
         [
             'driver_name' => 'Driver 6',
             'dpts' => '0',
-            'sprintwins'=>'0',
+            'sprintwins' => '0',
             'racewins' => '0'
         ],
         [
             'driver_name' => 'Driver 7',
             'dpts' => '0',
-            'sprintwins'=>'0',
+            'sprintwins' => '0',
             'racewins' => '0'
         ],
         [
             'driver_name' => 'Driver 8',
             'dpts' => '0',
-            'sprintwins'=>'0',
+            'sprintwins' => '0',
             'racewins' => '0'
         ],
         [
             'driver_name' => 'Driver 9',
             'dpts' => '0',
-            'sprintwins'=>'0',
+            'sprintwins' => '0',
             'racewins' => '0'
         ],
         [
             'driver_name' => 'Driver 10',
             'dpts' => '0',
-            'sprintwins'=>'0',
+            'sprintwins' => '0',
             'racewins' => '0'
         ],
         [
             'driver_name' => 'Driver 11',
             'dpts' => '0',
-            'sprintwins'=>'0',
+            'sprintwins' => '0',
             'racewins' => '0'
         ],
         [
             'driver_name' => 'Driver 12',
             'dpts' => '0',
-            'sprintwins'=>'0',
+            'sprintwins' => '0',
             'racewins' => '0'
         ],
         [
             'driver_name' => 'Driver 13',
             'dpts' => '0',
-            'sprintwins'=>'0',
+            'sprintwins' => '0',
             'racewins' => '0'
         ],
         [
             'driver_name' => 'Driver 14',
             'dpts' => '0',
-            'sprintwins'=>'0',
+            'sprintwins' => '0',
             'racewins' => '0'
         ],
         [
             'driver_name' => 'Driver 15',
             'dpts' => '0',
-            'sprintwins'=>'0',
+            'sprintwins' => '0',
             'racewins' => '0'
         ],
         [
             'driver_name' => 'Driver 16',
             'dpts' => '0',
-            'sprintwins'=>'0',
+            'sprintwins' => '0',
             'racewins' => '0'
         ],
         [
             'driver_name' => 'Driver 17',
             'dpts' => '0',
-            'sprintwins'=>'0',
+            'sprintwins' => '0',
             'racewins' => '0'
         ],
         [
             'driver_name' => 'Driver 18',
             'dpts' => '0',
-            'sprintwins'=>'0',
+            'sprintwins' => '0',
             'racewins' => '0'
         ],
         [
             'driver_name' => 'Driver 19',
             'dpts' => '0',
-            'sprintwins'=>'0',
+            'sprintwins' => '0',
             'racewins' => '0'
         ],
         [
             'driver_name' => 'Driver 20',
             'dpts' => '0',
-            'sprintwins'=>'0',
+            'sprintwins' => '0',
             'racewins' => '0'
         ],
 
