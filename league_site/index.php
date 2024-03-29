@@ -2,13 +2,14 @@
 
 
 <h2>Welcome to Mission Gaming F1 league</h2>
-<p>blahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
-    blahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
-    blahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
-    blahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
-    blahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
-    blahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
-    blahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblah.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pellentesque ultricies est,
+    nec pellentesque massa aliquam molestie. In at felis eget elit molestie consectetur eget vel augue.
+    Duis urna nunc, pharetra nec efficitur eu, faucibus in magna. Cras mi lacus, maximus in euismod sit amet,
+    feugiat et leo. Duis commodo, diam sit amet dignissim dictum, libero risus auctor nibh,
+    sit amet efficitur ligula felis sed erat. Curabitur egestas orci in scelerisque imperdiet. Sed viverra viverra metus.
+    Suspendisse eu purus nec est scelerisque condimentum. In venenatis molestie dui.
+    Quisque mattis sapien quis finibus semper. Mauris in quam mi. In eu arcu hendrerit mi porttitor convallis id ac leo.
+    Integer scelerisque, sapien eget rutrum porta, nulla quam bibendum eros, dignissim fermentum purus velit id neque.</p>
 
 <h5>Next Up: Bahrain</h5>
 <h6>The Track Layout</h6>
