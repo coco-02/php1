@@ -1,0 +1,64 @@
+[
+    TEAMS AND DRIVERS.
+
+    Ideallly we would want 20 drivers and 10 teams.
+    However, this might not be possible at the minute
+    as we do not have the player-base currently. This 
+    means that we could theoretically start a season
+    with less teams and drivers. The number of drivers must always stay as an even number but we can have any amount of teams so long as that number is between 1-10 so for example, 10 drivers and 5 teams
+]
+
+{
+    Points System
+
+    Regardless of how many drivers or teams we have the current points system that we have in the real f1 season would stay the same. This is how the system currentlu works:
+    
+    1st: 25 pts
+    2nd: 18 pts
+    3rd: 15 pts
+    4th: 12 pts
+    5th: 10 pts
+    6th: 8 pts
+    7th: 6 pts
+    8th: 4 pts
+    9th: 2 pts
+    10th: 1 pts
+
+    *Note* The driver with the fastest lap in the race gets a points bonus of 1 point.
+}
+
+{
+    DNS,DSQ,DNF
+
+    DNS(Did not start)
+
+    In the real world a DNS happens when a driver falls ill, is injured, has personal issues or dies. However how it would work in our esports league is if a driver simply cannot make it, to the race. If we have enough participants waiting then we can get a replacement for that race however if we do not the race will simply go ahead without that driver.
+
+    DSQ
+
+    Disqualifications (DSQ) happen when a driver either picks up too many penalties or they cause a nasty crash, sometimes the game cannot detect when a crash is intentional therefore we will have to review each incident and hand out DSQ after each race where the driver(s) who ends up with a DSQ will recieve 0 points. If possible i would like to track this as we can determine who the dirtiest drivers in the league are.
+
+    DNF(Did not finish)
+
+    This happens when a driver doesnt finish the race. There can be a multitude of reasons for this suchas; internet issues, too much car damage or life gets in the way. This is something else i would like to track if possible. 
+}
+
+{
+    Qualifing Round
+
+    Qualification will be one shot so that we can get onto the race asap. there are no points or anything in f1 however it would still be good to track this as we can see the average starting position of a partipant.
+
+}
+
+{
+    Penalties
+
+    Abusing track limits will always result in a penalty however sometimes the game fucks people up and gives them a penalty for abusing track limit/ corner cutting. These result in either a 3/5/10 second penalty however sometimes we will need to step in and ignore what the game says as people can be spun out, try and re-enter the race safley, which can require going off the track limits to rejoin safely so as to not impede fellow drivers but the game isnt smart enough for this and will give the driver a time penalty and will have to give any gained positions back if they do not they will have to do a drive through penalty where they enter the pit but do not box and just drive at 37mph/50mph depending on the track.  
+}
+
+{ 
+    Racing Conditions
+
+    I  would like to track finishing positions, fastest lap and overtakes( this will take time tbh because i will need to sit through a race replay and count how many overtakes there are in the race per driver; worth it though). But if we are able to track this it could show drivers progression throughout seasons.
+
+}

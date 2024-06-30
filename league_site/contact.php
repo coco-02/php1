@@ -2,7 +2,7 @@
 
 <h3><u>Contact Form</u></h3>
 <div class="container">
-    <form action="confirmation.php">
+    <form action="index.php">
         <label for="name"> Name</label>
         <input type="text" id="name" name="name" placeholder="Your name.." autocomplete="given-name">
         <label for="subject">Subject</label>

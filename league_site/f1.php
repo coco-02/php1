@@ -2,7 +2,6 @@
 
 <div class="content">
     <h4>Constructors Standings</h4>
-    <p></p>
     <?php
     $league_data = [
         [

@@ -1,0 +1,9 @@
+{
+    "name": "chave/html",
+    "autoload": {
+        "psr-4": {
+            "Chave\\Html\\": "src/"
+        }
+    },
+    "require": {}
+}

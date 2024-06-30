@@ -192,6 +192,18 @@
             'sprintwins' => '0',
             'racewins' => '0'
         ],
+        [
+            'driver_name' => 'Driver 21',
+            'dpts' => '0',
+            'sprintwins' => '0',
+            'racewins' => '0'
+        ],
+        [
+            'driver_name' => 'Driver 22',
+            'dpts' => '0',
+            'sprintwins' => '0',
+            'racewins' => '0'
+        ],
 
     ];
 
