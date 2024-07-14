@@ -29,6 +29,7 @@
     <nav role="navigation">
       <a href="index.php"><img src="images/logo/f1-league.webp" width="192" height="96" /></a>
       <a href="index.php">Home</a>
+      <a href="track.php">Tracks</a>
       <a href="f1.php">Formula 1</a>
       <a href="f2.php">Formula 2</a>
       <a href="login.php">Log in / Sign up</a>
