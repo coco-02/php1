@@ -1,7 +1,8 @@
-<?php require_once 'includes/header.php'; ?>
+<?php require_once 'includes/functions.php'; ?>
 <?php require_once 'includes/header.php'; ?>
 
 <?php
+
 $email = $_REQUEST ['email'];
 $subject = $_REQUEST ['subject'];
 $issue = $_REQUEST ['issue'];
