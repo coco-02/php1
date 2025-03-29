@@ -36,6 +36,7 @@
       <a href="interface.php">Profile</a>
       <a href="about.php">About</a>
       <a href="contact.php">Contact Us</a>
+      <a href= "fuckabout.php">Fucking about</a>
     </nav>
     <?php
 

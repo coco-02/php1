@@ -19,3 +19,5 @@ function f1_get_db_connection()
     }
 
 }
+
+?>
