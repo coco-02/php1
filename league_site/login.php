@@ -13,5 +13,8 @@
 </div>
 
 <h3>Not got an account with us? <a href="signup.php">Sign-up here</a></h3>
-
+<?php
+echo $_POST["username"];
+echo $_POST["password"];
+?>
 <?php require_once 'includes/footer.php'; ?>
